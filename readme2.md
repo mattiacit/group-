@@ -1,5 +1,5 @@
 # Apple Pay
-![Cashless made effortless.](/![image/Apple.png)
+![Cashless made effortless.](Apple.png)
 
 ### Apple Pay is the leading mobile payment and digital wallet service. Users can make payments in person, in iOS apps and on the web.
 
